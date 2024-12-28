@@ -19,10 +19,6 @@ Festival Post Maker is an Android application designed to help users create stun
 - Java language
 - Android Studio
 
-- ### Demo
-
-https://github.com/user-attachments/assets/59ca57f8-9abb-4e8a-92a4-c672715f8b79
-
 ### Pictures of application 
 
 
